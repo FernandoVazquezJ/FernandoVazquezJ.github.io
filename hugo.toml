@@ -1,4 +1,4 @@
-baseURL = 'https://fernandovazquezj.github.io/FernandoVazquezJ'
+baseURL = 'https://fernandovazquezj.github.io/'
 languageCode = 'es-mx'
 title = 'Fernando Vázquez J | Ing- Mecatrónico'
 theme = 'PaperMod'
