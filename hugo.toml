@@ -4,5 +4,5 @@ title = 'Fernando Vazquez | Mecatrónica'
 theme = 'PaperMod'
 
 [params]
-    homeInfoParams = { Title = "Hola, soy Fernando", Content = "Ingeniero Mecatrónico en Cinvestav | RAS IEEE" }
+    homeInfoParams = { Title = "Hola, soy Fernando", Content = "Ingeniero Mecatrónico | Cinvestav | RAS IEEE" }
     
