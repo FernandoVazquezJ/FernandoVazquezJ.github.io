@@ -1,8 +1,8 @@
-baseURL = 'https://FernandoVazquezJ.github.io/'
+baseURL = 'https://fernandovazquezj.github.io/'
 languageCode = 'es-mx'
-title = 'Fernando Vazquez | Mecatrónica'
+title = 'Fernando Vázquez J | Ing- Mecatrónico'
 theme = 'PaperMod'
 
 [params]
-    homeInfoParams = { Title = "Hola, soy Fernando", Content = "Ingeniero Mecatrónico | Cinvestav | RAS IEEE" }
+    homeInfoParams = { Title = "Fernando Vázquez Jiménez", Content = "Ing. Mecatrónico | BUAP | CINVESTAV | RAS IEEE" }
     
