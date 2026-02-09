@@ -4,5 +4,27 @@ title = 'Fernando Vázquez J | Ing- Mecatrónico'
 theme = 'PaperMod'
 
 [params]
-    homeInfoParams = { Title = "Fernando Vázquez Jiménez", Content = "Ing. Mecatrónico | BUAP | CINVESTAV | RAS IEEE" }
-    
+
+    [params.label]
+        text = "Fernando Vázquez J"
+        icon = "/images/logo-personal.png" # Un logo pequeño junto a tu nombre en el menú
+        iconHeight = 35
+
+    [params.homeInfoParams]
+        Title = "Fernando Vázquez Jiménez"
+        Content = "Ing. Mecatrónico | BUAP | CINVESTAV | RAS IEEE"
+
+    # AQUÍ AGREGAS TU FOTO DE PERFIL
+    [params.profileMode]
+        enabled = true # Cambia a true si quieres una página de inicio tipo "tarjeta"
+        title = "Fernando Vázquez Jiménez"
+        subtitle = "Ingeniero Mecatrónico | BUAP | CINVESTAV | RAS IEEE"
+        imageUrl = "/images/perfil.jpg" # Ruta a tu foto en static/images/
+        imageWidth = 150
+        imageHeight = 150
+        imageDisplay = "rounded" # Para que sea circular
+[[menu.main]]
+    identifier = "projects"
+    name = "Proyectos"
+    url = "/projects/"
+    weight = 10
