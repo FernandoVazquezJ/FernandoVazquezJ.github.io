@@ -15,15 +15,5 @@
       <guid>http://localhost:1313/projects/research/estimacion-fuerza/</guid>
       <description>Desarrollo de sensores táctiles para robótica suave.</description>
     </item>
-    <item>
-      <title>Sobre Mí</title>
-      <link>http://localhost:1313/projects/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/about/about/</guid>
-      <description>&lt;h1 id=&#34;hola-soy-fernando-vazquez&#34;&gt;¡Hola! Soy Fernando Vazquez&lt;/h1&gt;
-&lt;p&gt;Soy un &lt;strong&gt;Ingeniero Mecatrónico&lt;/strong&gt; apasionado por el diseño de sistemas complejos y la robótica de precisión. Actualmente, curso la &lt;strong&gt;Maestría en Ciencias en Ingeniería Eléctrica (Mecatrónica)&lt;/strong&gt; en el &lt;strong&gt;Cinvestav&lt;/strong&gt;, donde enfoco mi investigación en la &lt;strong&gt;estimación de fuerza y torque para robots con dedos blandos (soft fingers)&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;mi-visión-profesional&#34;&gt;Mi Visión Profesional&lt;/h3&gt;
-&lt;p&gt;Mi objetivo a corto plazo es especializarme a través de un &lt;strong&gt;EngD en Mechatronic Systems Design (MSD) en la TU/e&lt;/strong&gt;, integrando el pensamiento sistémico con la industria de alta tecnología. Creo firmemente que la robótica debe ser tanto precisa como adaptable, y trabajo día a día para cerrar esa brecha.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

@@ -1,0 +1,23 @@
+/* Cambiar el color de fondo sutilmente o añadir una textura */
+/* body {
+/*    background-color: #f5f7fa; /* Un gris muy claro profesional */
+/*}
+
+/* Resaltar los títulos con el azul de la IEEE o de la TU/e */
+h1, h2, h3 {
+    color: #00629b; /* Azul IEEE */
+}
+
+/* Esto afecta al modo claro */
+:root {
+    --theme: #f5f7fa;      /* Color de fondo principal */
+    --entry: #ffffff;      /* Color de las tarjetas de proyectos */
+    --primary: #1d1e20;    /* Color del texto principal (Azul IEEE) */
+}
+
+/* Esto afecta al modo oscuro (si quieres mantenerlo profesional) */
+.dark {
+    --theme: #1d1e20;      /* Fondo oscuro */
+    --entry: #2e2e33;      /* Tarjetas en modo oscuro */
+    --primary: #e1e1e1;    /* Texto claro */
+}

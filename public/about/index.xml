@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Inicio on Fernando Vázquez J | Ing- Mecatrónico</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Inicio on Fernando Vázquez J | Ing- Mecatrónico</description>
+    <title>Abouts on Fernando Vázquez J | Ing- Mecatrónico</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Fernando Vázquez J | Ing- Mecatrónico</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>es-mx</language>
-    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estimación de Fuerza en Soft Fingers</title>
-      <link>http://localhost:1313/projects/research/estimacion-fuerza/</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/research/estimacion-fuerza/</guid>
-      <description>Desarrollo de sensores táctiles para robótica suave.</description>
-    </item>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre Mí</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>&lt;h1 id=&#34;hola-soy-fernando-vazquez&#34;&gt;¡Hola! Soy Fernando Vazquez&lt;/h1&gt;
 &lt;p&gt;Soy un &lt;strong&gt;Ingeniero Mecatrónico&lt;/strong&gt; apasionado por el diseño de sistemas complejos y la robótica de precisión. Actualmente, curso la &lt;strong&gt;Maestría en Ciencias en Ingeniería Eléctrica (Mecatrónica)&lt;/strong&gt; en el &lt;strong&gt;Cinvestav&lt;/strong&gt;, donde enfoco mi investigación en la &lt;strong&gt;estimación de fuerza y torque para robots con dedos blandos (soft fingers)&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;mi-visión-profesional&#34;&gt;Mi Visión Profesional&lt;/h3&gt;

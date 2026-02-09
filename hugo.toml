@@ -23,8 +23,15 @@ theme = 'PaperMod'
         imageWidth = 150
         imageHeight = 150
         imageDisplay = "rounded" # Para que sea circular
+        [[params.profileMode.buttons]]
+            name = "Sobre mí"
+            url = "/about/"
+        [[params.profileMode.buttons]]
+            name = "Proyectos"
+            url = "/projects/"
+
 [[menu.main]]
     identifier = "projects"
-    name = "Proyectos"
+    name = "Projectos"
     url = "/projects/"
     weight = 10
