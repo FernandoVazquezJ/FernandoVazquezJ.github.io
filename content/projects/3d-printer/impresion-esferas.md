@@ -1,7 +1,7 @@
 ---
-title: "Estimación de Fuerza en Soft Fingers"
-date: 2025-09-19
-description: "Desarrollo de sensores táctiles para robótica suave."
+title: "Esferas Sección Mecatrónica"
+date: 2024-12-04
+description: "Desarrollo de esferas decorativas."
 
 #cover:
 #    image: "/images/robot-tesis.jpg" # Imagen que guardaste en static/images/

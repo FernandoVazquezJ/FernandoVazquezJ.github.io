@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on Fernando Vázquez J | Ing- Mecatrónico</title>
+    <title>Categorías de Proyectos on Fernando Vázquez J | Ing- Mecatrónico</title>
     <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on Fernando Vázquez J | Ing- Mecatrónico</description>
+    <description>Recent content in Categorías de Proyectos on Fernando Vázquez J | Ing- Mecatrónico</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>es-mx</language>
-    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Estimación de Fuerza en Soft Fingers</title>
-      <link>http://localhost:1313/projects/research/estimacion-fuerza/</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/research/estimacion-fuerza/</guid>
-      <description>Desarrollo de sensores táctiles para robótica suave.</description>
-    </item>
   </channel>
 </rss>

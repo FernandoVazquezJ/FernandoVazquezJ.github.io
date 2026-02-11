@@ -1,6 +1,6 @@
 ---
-title: "Estimación de Fuerza en Soft Fingers"
-date: 2025-09-19
+title: "Estimación por modelos de frecuencia"
+date: 2026-02-05
 description: "Desarrollo de sensores táctiles para robótica suave."
 
 #cover:

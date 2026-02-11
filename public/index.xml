@@ -6,14 +6,28 @@
     <description>Recent content in Inicio on Fernando Vázquez J | Ing- Mecatrónico</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>es-mx</language>
-    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimación por modelos de frecuencia</title>
+      <link>http://localhost:1313/projects/research/analisis-frecuencia/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/research/analisis-frecuencia/</guid>
+      <description>Desarrollo de sensores táctiles para robótica suave.</description>
+    </item>
     <item>
       <title>Estimación de Fuerza en Soft Fingers</title>
       <link>http://localhost:1313/projects/research/estimacion-fuerza/</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/research/estimacion-fuerza/</guid>
       <description>Desarrollo de sensores táctiles para robótica suave.</description>
+    </item>
+    <item>
+      <title>Esferas Sección Mecatrónica</title>
+      <link>http://localhost:1313/projects/3d-printer/impresion-esferas/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/3d-printer/impresion-esferas/</guid>
+      <description>Desarrollo de esferas decorativas.</description>
     </item>
     <item>
       <title>Sobre Mí</title>

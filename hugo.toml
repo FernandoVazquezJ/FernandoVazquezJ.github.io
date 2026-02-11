@@ -35,3 +35,27 @@ theme = 'PaperMod'
     name = "Projectos"
     url = "/projects/"
     weight = 10
+
+# Submenú: Investigación (Research)
+[[menu.main]]
+    identifier = "research"
+    name = "Investigación"
+    parent = "projects" # Esto lo vincula al de arriba
+    url = "/projects/research/"
+    weight = 1
+
+# Submenú: Impresión 3D
+[[menu.main]]
+    identifier = "3dprinter"
+    name = "Impresión 3D"
+    parent = "projects"
+    url = "/projects/3d-printer/"
+    weight = 2
+#
+# Submenú: Otros Proyectos
+#[[menu.main]]
+#    identifier = "mis-proyectos"
+#    name = "Mis Desarrollos"
+#    parent = "projects"
+#    url = "/projects/otros/"
+#    weight = 3
